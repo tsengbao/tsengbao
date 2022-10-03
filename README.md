@@ -1,0 +1,2 @@
+-  Hello, this is Bao! 👋
+- 📫 Please reach out to me if you want to work together on freelance bitcoin projects.
